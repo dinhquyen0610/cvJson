@@ -1,41 +1,37 @@
-{
-  "data": {
-    "infor": {
-      "name": "Nguyễn Đình Quyền",
-      "image": "quyen.png",
-      "date": "06/10/1998",
-      "job": "Fresher",
-      "email": "dinhquyen0610@gmail.com",
-      "phone": "0326153939"
-    },
-    "aboutMe": {
-      "content": "Bản thân tôi là một người vui vẻ, hoà đồng và nhiệt tình. Sở thích của tôi là đá bóng, đọc sách, nghe nhạc và thích tìm tòi cái mới. Trong quá trình học tôi có tham gia tích cực các hoạt động của đoàn Trường và xung phong các hoạt động tình nguyện đã giúp cho tôi ngày càng năng động và chủ động trong mọi công việc. Ngoài ra trong lúc đi học tôi có làm thêm công việc sửa máy tính để thoả mãn sự tò mò của tôi về máy tính, từ những công việc đó giúp cho tôi không chỉ việc nắm bắt khắc phục các lỗi máy tính, nó còn giúp tôi khả năng thuyệt phục khách hàng trong quá trình tư vấn khách hàng mua máy tính."
-    },
-    "careerGoals": {
-      "context": "Trở thành một lập trình viên web FullStack, có thể đảm nhiệm được vai trò trong việc thực hiện các dự án , được trở thành nhân viên chính thức của công ty góp sức mình trong vi phát triển của công ty và hoàn thiện những kỹ năng cho chính mình. Và có thể làm ra những Website mang đến người dùng sự trải nghiệm tốt nhất."
-    },
-    "skill": {
-      "listskill": [
-        {
-          "name": "html",
-          "value": "90%"
-        },
-        {
-          "name": "css",
-          "value": "90%"
-        },
-        {
-          "name": "javascipt",
-          "value": "80%"
-        },
-        {
-          "name": "reactjs",
-          "value": "60%"
-        }
-      ]
-    }
+{ 
+  "infor": {
+    "name": "Nguyễn Đình Quyền",
+    "image": "quyen.png",
+    "date": "06/10/1998",
+    "job": "Fresher",
+    "email": "dinhquyen0610@gmail.com",
+    "phone": "0326153939"
   },
-  "page":{
-    "number": 4
+  "aboutMe": {
+    "content": "Bản thân tôi là một người vui vẻ, hoà đồng và nhiệt tình. Sở thích của tôi là đá bóng, đọc sách, nghe nhạc và thích tìm tòi cái mới. Trong quá trình học tôi có tham gia tích cực các hoạt động của đoàn Trường và xung phong các hoạt động tình nguyện đã giúp cho tôi ngày càng năng động và chủ động trong mọi công việc. Ngoài ra trong lúc đi học tôi có làm thêm công việc sửa máy tính để thoả mãn sự tò mò của tôi về máy tính, từ những công việc đó giúp cho tôi không chỉ việc nắm bắt khắc phục các lỗi máy tính, nó còn giúp tôi khả năng thuyệt phục khách hàng trong quá trình tư vấn khách hàng mua máy tính."
+  },
+  "careerGoals": {
+    "context": "Trở thành một lập trình viên web FullStack, có thể đảm nhiệm được vai trò trong việc thực hiện các dự án , được trở thành nhân viên chính thức của công ty góp sức mình trong vi phát triển của công ty và hoàn thiện những kỹ năng cho chính mình. Và có thể làm ra những Website mang đến người dùng sự trải nghiệm tốt nhất."
+  },
+  "skill": {
+    "listskill": [
+      {
+        "name": "html",
+        "value": "90%"
+      },
+      {
+        "name": "css",
+        "value": "90%"
+      },
+      {
+        "name": "javascipt",
+        "value": "80%"
+      },
+      {
+        "name": "reactjs",
+        "value": "60%"
+      }
+    ]
   }
+  ,"page":2
 }
